@@ -29,7 +29,7 @@ important sales information through an interactive Excel dashboard.
 
 ## 📸 Dashboard Preview
 
-![Sales Analytics Dashboard](screenshots/sales-dashboard.png)
+![Sales and Revenue Analytics Dashboard](sales-dashboard.png)
 
 ## 💡 Skills Demonstrated
 
