@@ -25,8 +25,11 @@ sales performance and generate meaningful business insights.
 ## 🎯 Objective
 
 The objective of this project is to analyze sales data and present
-important sales information through an interactive Excel dashboard
+important sales information through an interactive Excel dashboard.
 
+## 📸 Dashboard Preview
+
+![Sales Analytics Dashboard](screenshots/sales-dashboard.png)
 
 ## 💡 Skills Demonstrated
 
