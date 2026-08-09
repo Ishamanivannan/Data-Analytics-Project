@@ -1,124 +1,98 @@
-📊 Sales and Revenue Analytics Dashboard
+📊 Data Analytics Projects
 
-📌 Project Overview
+📌 Overview
 
-This project is a Sales and Revenue Analytics Dashboard created using Microsoft Excel to analyze sales performance and generate meaningful business insights.
+Welcome to my Data Analytics Projects Repository.
 
-The dashboard provides a visual representation of key sales metrics, product performance, category performance, regional sales, and sales trends.
+This repository contains practical projects created to develop and demonstrate my skills in data analysis, data visualization, dashboard creation, and business insights.
 
-🛠️ Tool Used
+Each project focuses on analyzing data and presenting meaningful insights using different tools and technologies.
 
-Microsoft Excel
-
-📈 Dashboard Features
-
-💰 Total Revenue
-
-📦 Total Units Sold
-
-📊 Average Revenue
-
-🧾 Total Transactions
-
-🛍️ Product-wise Sales Analysis
-
-🗂️ Category-wise Sales Analysis
-
-🌍 Region-wise Sales Analysis
-
-📅 Sales and Revenue Trend Analysis
-
-🎛️ Interactive Filters
-
-🎚️ Interactive Slicers
-
-📊 Charts and Data Visualizations
-
-🎯 Objective
-
-The main objective of this project is to analyze sales data and present important business information through an interactive and visually appealing Excel dashboard.
-
-The dashboard helps in understanding:
-
-Overall revenue performance
-
-Units sold
-
-Transaction volume
-
-Product performance
-
-Category performance
-
-Regional sales performance
-
-Sales trends over time
-
-
-
-💡 Skills Demonstrated
-
-Data Analysis
+🛠️ Tools & Technologies
 
 Microsoft Excel
 
-Dashboard Creation
+Power BI
+
+SQL
+
+Python
 
 Data Visualization
 
 Pivot Tables
 
-Pivot Charts
+Charts & Dashboards
 
-Interactive Slicers
+📂 Projects
 
-Sales Performance Analysis
+1. 📊 Sales and Revenue Analytics Dashboard
 
-Revenue Analysis
+Tool: Microsoft Excel
 
-Business Insights
+An interactive Excel dashboard created to analyze sales performance, revenue, units sold, transactions, product performance, category performance, regional sales, and sales trends.
 
-Data Interpretation
-
-📊 Key Metrics
-
-Metric
-
-Description
+Key Features:
 
 Total Revenue
 
-Overall revenue generated
-
 Total Units Sold
-
-Total number of units sold
 
 Average Revenue
 
-Average revenue generated
-
 Total Transactions
 
-Total number of sales transactions
+Product-wise Analysis
 
-🔍 Business Analysis
+Category-wise Analysis
 
-The dashboard enables users to analyze sales performance from different perspectives, including:
+Region-wise Analysis
 
-Product-wise analysis to identify product performance.
+Sales Trend Analysis
 
-Category-wise analysis to understand category contribution.
+Interactive Slicers
 
-Region-wise analysis to compare sales across regions.
+Data Visualization
 
-Trend analysis to understand changes in sales and revenue over time.
+🎯 Objective
 
-🚀 Project Outcome
+The objective of this repository is to showcase my practical experience in data analytics and business intelligence through hands-on projects.
 
-This project provided practical experience in transforming sales data into a meaningful and interactive dashboard using Microsoft Excel.
+These projects demonstrate my ability to:
 
-It demonstrates the ability to perform data analysis, create visualizations, develop dashboards, and communicate business insights effectively.
+Analyze datasets
+
+Identify meaningful patterns
+
+Create dashboards
+
+Visualize data
+
+Generate business insights
+
+Present analytical findings clearly
+
+💡 Skills Demonstrated
+
+Data Analysis
+
+Data Visualization
+
+Dashboard Development
+
+Business Analysis
+
+Microsoft Excel
+
+Power BI
+
+SQL
+
+Python
+
+Data Interpretation
+
+Problem Solving
 
 👩‍💻 Author
 
@@ -126,4 +100,4 @@ Isha Manivannan
 
 Computer Science and Engineering Student
 
-⭐ Sales and Revenue Analytics Dashboard developed using Microsoft Excel.
+⭐ More data analytics projects will be added to this repository as I continue learning and building practical projects.
