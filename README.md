@@ -1,9 +1,8 @@
-# Sales Analytics Dashboard
+# 📊 Sales Analytics Dashboard
 
-## 📊 Project Overview
+## 📌 Project Overview
 
-This project is an Excel-based Sales Analytics Dashboard created to analyze
-sales performance and generate meaningful business insights.
+This project is an Excel-based Sales Analytics Dashboard created to analyze sales performance and generate meaningful business insights.
 
 ## 🛠️ Tool Used
 
@@ -24,12 +23,11 @@ sales performance and generate meaningful business insights.
 
 ## 🎯 Objective
 
-The objective of this project is to analyze sales data and present
-important sales information through an interactive Excel dashboard.
+The objective of this project is to analyze sales data and present important sales information through an interactive Excel dashboard.
 
 ## 📸 Dashboard Preview
 
-![Sales Analytics Dashboard](screenshots/sales-dashboard.png)
+![Sales Analytics Dashboard](images/sales-dashboard.png)
 
 ## 💡 Skills Demonstrated
 
@@ -39,4 +37,4 @@ important sales information through an interactive Excel dashboard.
 - Data Visualization
 - Pivot Tables / Charts
 - Interactive Slicers
-- Business Insights# Data-Analytics-Project
+- Business Insights
